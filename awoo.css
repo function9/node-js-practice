@@ -1,0 +1,25 @@
+h1{
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Helvetica Neue", "Arial",  sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-variant-ligatures: normal;
+  font-size: 4rem;
+  letter-spacing: 1px;
+  color: white;
+}
+body {
+ background-image: url("https://pics.me.me/local-wolf-goes-awoo-26513363.png");
+}
+p{
+  width: 650px;
+  margin: 0 auto;
+  font-family: "Helvetica Neue", "Arial",  sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-variant-ligatures: normal;
+  font-size: 4rem;
+  letter-spacing: 1px;
+  color: black;
+}
